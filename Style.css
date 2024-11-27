@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(135deg, #261172, #b10e0e);
+    color: white;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .card-custom {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: none;
+    border-radius: 12px;
+    padding: 20px;
+    color: white;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+  }
+  
+  select, input, button {
+    border-radius: 8px;
+  }
+  
+  h2 {
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  
